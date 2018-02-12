@@ -1,0 +1,30 @@
+{
+    "name": "angular-promise-button",
+    "version": "1",
+    "description": "An Angularjs promise button for action feedback on supply of promise",
+    "main": [
+      "dist/angular-promise-button.js"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "promise-button",
+        "Angularjs button",
+        "Angularjs custom button"
+    ],
+    "authors": [
+        "Dhinesh Sridhar"
+    ],
+    "homepage": "http://krispo.github.io/angular-nvd3",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/krispo/angular-nvd3.git"
+    },
+    "dependencies": {
+        "angular": "^1.x"
+    },
+    "ignore": [
+        "**/.*",
+        "bower_components",
+        "src"
+    ]
+}
