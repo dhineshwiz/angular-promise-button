@@ -1,0 +1,9 @@
+node_modules/
+bower_components/
+.sass-cache/
+.tmp/
+dist/
+.idea/
+.publish/
+src/app/app-constant.js
+app-constant.json

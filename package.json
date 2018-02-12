@@ -1,0 +1,25 @@
+{
+  "name": "angularjs-promise-button",
+  "version": "1.0.0",
+  "description": "A angularjs promise button for custom feedback on action promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhineshwiz/angular-promise-button.git"
+  },
+  "keywords": [
+    "angular",
+    "button",
+    "promise",
+    "button"
+  ],
+  "author": "dhinesh sridhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhineshwiz/angular-promise-button/issues"
+  },
+  "homepage": "https://github.com/dhineshwiz/angular-promise-button#readme"
+}
