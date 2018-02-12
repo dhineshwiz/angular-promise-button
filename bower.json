@@ -14,15 +14,15 @@
     "authors": [
         "Dhinesh Sridhar"
     ],
-    "homepage": "http://krispo.github.io/angular-nvd3",
+    "homepage": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/krispo/angular-nvd3.git"
+        "url": "https://github.com/dhineshwiz/angular-promise-button.git"
     },
     "dependencies": {
         "angular": "^1.x"
     },
     "ignore": [
-        "bower_components",
+        "bower_components"
     ]
 }
