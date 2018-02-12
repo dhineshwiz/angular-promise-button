@@ -1,5 +1,5 @@
 {
-    "name": "angular-promise-button",
+    "name": "angularjs-promise-button",
     "version": "1",
     "description": "An Angularjs promise button for action feedback on supply of promise",
     "main": [
@@ -23,8 +23,6 @@
         "angular": "^1.x"
     },
     "ignore": [
-        "**/.*",
         "bower_components",
-        "src"
     ]
 }
