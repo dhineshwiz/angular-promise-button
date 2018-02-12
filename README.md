@@ -2,10 +2,8 @@ angularjs-promise-button
 =====================
 An Angular module that gives you feedback for the action buttons on supply of promise
 
-##Get Started
+## Get Started
 **(1)** You can install angularjs-promise-button using 2 different ways:<br/>
-**Git:**
-clone & build [this](https://github.com/dhineshwiz/angular-promise-button.git) repository<br/>
 **Bower:**
 ```bash
 $ bower install angularjs-promise-button --save
@@ -36,3 +34,14 @@ When you're done, your setup should look similar to the following:
 </body>
 </html>
 ```
+## Usage
+
+```html
+<button promise-click="buttonAction()" busy-text="'Updating'" hide-percentage="false">button_text</button>
+```
+
+## Directive Options
+
+promise-click   - Promise of the action to be returned (type: expression)   
+busy-text       - Busy text which needs to be shown on action perform (type: string)
+hide-percentage - To hide the percentage of work done(type boolean)
